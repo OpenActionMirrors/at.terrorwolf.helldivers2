@@ -81,7 +81,7 @@ macro_rules! group_action {
 
 		#[async_trait]
 		impl Action for $name {
-			const UUID: ActionUuid = concat!("at.terrorwolf.helldivers.", $group);
+			const UUID: ActionUuid = concat!("at.terrorwolf.helldivers2.", $group);
 			type Settings = ActionSettings;
 
 			async fn will_appear(
