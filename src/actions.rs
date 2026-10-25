@@ -144,3 +144,4 @@ group_action!(SiegeBreakers, "SiegeBreakers");
 group_action!(EntrenchedDivision, "EntrenchedDivision");
 group_action!(ExoExperts, "ExoExperts");
 group_action!(CastellansCreed, "CastellansCreed");
+group_action!(ScopeOfAuthority, "ScopeOfAuthority");

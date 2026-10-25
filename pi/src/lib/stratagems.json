@@ -1246,5 +1246,32 @@
         "down"
       ]
     }
+  ],
+  "ScopeOfAuthority": [
+    {
+      "id": "SCOPEOFAUTHORITY_LAS-44_NOVA",
+      "title": "NOVA",
+      "icon": "icon/HD2-ScopeOfAuthority/SCOPEOFAUTHORITY_LAS-44_NOVA",
+      "seq": [
+        "down",
+        "left",
+        "right",
+        "down",
+        "down"
+      ]
+    },
+    {
+      "id": "SCOPEOFAUTHORITY_AMW-20_APEX",
+      "title": "NOVA",
+      "icon": "icon/HD2-ScopeOfAuthority/SCOPEOFAUTHORITY_AMW-20_APEX",
+      "seq": [
+        "down",
+        "left",
+        "left",
+        "up",
+        "down",
+        "left"
+      ]
+    }
   ]
 }

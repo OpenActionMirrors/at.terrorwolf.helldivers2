@@ -192,6 +192,7 @@ async fn main() -> OpenActionResult<()> {
 	register_action(EntrenchedDivision).await;
 	register_action(ExoExperts).await;
 	register_action(CastellansCreed).await;
+	register_action(ScopeOfAuthority).await;
 
 	run(std::env::args().collect()).await
 }

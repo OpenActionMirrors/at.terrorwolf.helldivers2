@@ -1,7 +1,7 @@
 {
   "Name": "Helldivers2",
   "Author": "Terrorwolf",
-  "Version": "3.0.0.0",
+  "Version": "3.1.0.0",
   "Description": "Helldivers2",
   "Category": "Helldivers2",
   "CategoryIcon": "icon/helldivers2",
@@ -314,6 +314,20 @@
       "Name": "Castellan's Creed",
       "Icon": "icon/HD2-CastellansCreed/CASTELLANSCREED_40-K_Meltagun",
       "Tooltip": "Any Castellan's Creed stratagem",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "icon/helldivers2"
+        }
+      ]
+    },
+    {
+      "UUID": "at.terrorwolf.helldivers2.ScopeOfAuthority",
+      "Name": "Scope Of Authority",
+      "Icon": "icon/HD2-ScopeOfAuthority/SCOPEOFAUTHORITY_LAS-44_NOVA",
+      "Tooltip": "Any Scope Of Authority stratagem",
       "Controllers": [
         "Keypad"
       ],
